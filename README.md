@@ -51,3 +51,4 @@ This repository includes the Jupyter Notebook file with:
 - SQLITE
 
  ## Entity-Relationship (ER)
+![](https://github.com/calua-83/abc-pharma-database-setup-cleaning/blob/main/ABC%20ER%20Diagram.png?raw=true)
