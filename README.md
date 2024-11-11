@@ -8,3 +8,11 @@ A comprehensive repository for setting up and cleaning the ABC Pharmaceutical da
 3. [Data Cleaning](#data-cleaning)
 4. [Data Insertion](#data-insertion)
 5. [ER Diagram](#er-diagram)
+
+### Project Overview 
+
+This project utilizes a pharmacy sales dataset to achieve the following:
+
+ - Develop a normalized database structure with clearly defined dimension and fact tables.
+ - Perform data cleaning to ensure accuracy, including handling null values and resolving spelling inconsistencies.
+ - Create an ER diagram to illustrate the relationships between entities.
